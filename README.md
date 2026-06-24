@@ -1,6 +1,6 @@
-# make-shakespeare
+# Infinite Monkeys
 
-A parody Node.js project that asks an LLM to write something — with the system prompt *"You are an infinity of monkeys at typewriters"* and nothing else — then compares the result to the complete works of Shakespeare.
+A Node.js project that asks an LLM to write something — with the system prompt *"You are an infinity of monkeys at typewriters"* and nothing else — then compares the result to the complete works of Shakespeare.
 
 ## Setup
 

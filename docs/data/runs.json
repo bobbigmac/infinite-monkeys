@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-06-24T01:08:23.750Z",
+  "today": "2026-06-24",
+  "latestRunId": "2026-06-24-003222",
+  "todayRunId": "2026-06-24-003222",
+  "runs": [
+    {
+      "id": "2026-06-24-003222",
+      "date": "2026-06-24",
+      "displayDate": "24 June 2026, 00:32:22 UTC",
+      "monkeyIndex": 0.317,
+      "verdict": "Not Shakespeare, but 177 words were lifted verbatim from the canon across 58 accidental quotations.",
+      "exactMatch": false
+    },
+    {
+      "id": "2026-06-24",
+      "date": "2026-06-24",
+      "displayDate": "24 June 2026",
+      "monkeyIndex": 0.303,
+      "verdict": "Not Shakespeare, but 139 words were lifted verbatim from the canon across 45 accidental quotations.",
+      "exactMatch": false
+    }
+  ]
+}

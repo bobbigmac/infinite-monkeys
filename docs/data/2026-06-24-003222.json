@@ -1,0 +1,278 @@
+{
+  "id": "2026-06-24-003222",
+  "date": "2026-06-24",
+  "displayDate": "24 June 2026, 00:32:22 UTC",
+  "model": "deepseek-ai/DeepSeek-V4-Flash",
+  "text": "single strand of light in a deep, velvet room.\n\nIt was not a room, not really, not anymore. It was a memory of a room, a hollow space carved out of forgetting. The light, thin as a spider's thread, came from a crack in the ceiling, a fissure no wider than a whisper. It fell onto a single object on a bare wooden floor: a brass key.\n\nThe key was old, the colour of dried honey and old copper. It was intricate, with a head shaped like the wings of a folded beetle and a bit so complex it looked like a briar patch. It had been lying there for a very long time. Dust had begun to claim it, a soft blanket of grey.\n\nFor years, the key had been silent. It had listened to the settling of the house's bones, the skitter of tiny claws in the dark, the drip-drip-drip of a forgotten tap. It had watched the single thread of light move across the floor like the hour hand of a silent clock, touching it for a precious few moments each day before moving on.\n\nBut today, the light was different. It was winter light, sharp and cold, and it held the key for a long, unwavering minute. The copper and brass absorbed the light not as heat, but as memory.\n\nThe key remembered a hand. A strong, calloused hand with a line of ink under the thumbnail. The hand had turned the key in a lock with a sound like a satisfied sigh: *click*. The hand had worn it on a cord around a neck, against a chest that rose and fell with secret dreams.\n\nThe key remembered a door. Not the door it was meant for, but the door that was opened with it again and again. A heavy, oak door, warped by the damp and fitted with iron hinges that shrieked a protest every time. Behind the door was a smell: old paper, ink, and the sharp, green scent of a plant called rosemary, pressed between the pages of a book.\n\nThe key remembered the contents of that room. It was not a treasure, not gold or jewels. It was a single, unfinished manuscript. The pages were covered in a frantic, beautiful script, and the key had lived for a long while pressed between the last leaf and the back cover, a silent bookmark. The last sentence, left hanging in the middle of the page, was: *\"And so the door, which had only ever been an idea, began to...\"*\n\nThe owner had never returned.\n\nNow, the key lay in the memory of the room, in the hollowed-out house. It was not meant for the front door. It was not meant for a treasure chest. Its only purpose was to be the final word, the missing period on the last sentence of an unfinished story.\n\nThe beautiful, sharp, winter light began to fade. The spider-thread of light narrowed, narrowed, and vanished. The room was velvet dark again.\n\nBut in the darkness, the key trembled. The dust that had settled on it shifted, a tiny avalanche in the deep. The key was not meant to be found. It was not a clue. It was a promise.\n\nIt was waiting for the right kind of dark, and the right kind of hand, to finish the sentence.",
+  "report": {
+    "monkeyIndex": 0.317,
+    "verdict": "Not Shakespeare, but 177 words were lifted verbatim from the canon across 58 accidental quotations.",
+    "exactMatch": false,
+    "closestPassage": {
+      "play": "The Life And Death Of King Richard The Second",
+      "similarity": 0.393,
+      "excerpt": "aside aside here is more matter for a hot brain every lane s end every shop church session hanging yields a careful man work clown see see what a man you are now there is no other way but to tell the king she s a changeling and none of your flesh and blood shepherd nay but hear me clown nay but hear me shepherd go to then clown she being none of your flesh and blood your flesh and blood has not of"
+    },
+    "accidentalQuotations": [
+      {
+        "text": "a room a",
+        "words": 3
+      },
+      {
+        "text": "wider than a",
+        "words": 3
+      },
+      {
+        "text": "the colour of",
+        "words": 3
+      },
+      {
+        "text": "with a head",
+        "words": 3
+      },
+      {
+        "text": "the wings of",
+        "words": 3
+      },
+      {
+        "text": "it had been",
+        "words": 3
+      },
+      {
+        "text": "there for a",
+        "words": 3
+      },
+      {
+        "text": "for a very",
+        "words": 3
+      },
+      {
+        "text": "had been silent",
+        "words": 3
+      },
+      {
+        "text": "listened to the",
+        "words": 3
+      },
+      {
+        "text": "in the dark",
+        "words": 3
+      },
+      {
+        "text": "hand of a",
+        "words": 3
+      },
+      {
+        "text": "it for a",
+        "words": 3
+      },
+      {
+        "text": "for a precious",
+        "words": 3
+      },
+      {
+        "text": "key for a",
+        "words": 3
+      },
+      {
+        "text": "a hand a",
+        "words": 3
+      },
+      {
+        "text": "hand with a",
+        "words": 3
+      },
+      {
+        "text": "with a line",
+        "words": 3
+      },
+      {
+        "text": "a line of",
+        "words": 3
+      },
+      {
+        "text": "had worn it",
+        "words": 3
+      },
+      {
+        "text": "it on a",
+        "words": 3
+      },
+      {
+        "text": "it was meant",
+        "words": 3
+      },
+      {
+        "text": "for but the",
+        "words": 3
+      },
+      {
+        "text": "but the door",
+        "words": 3
+      },
+      {
+        "text": "the door that",
+        "words": 3
+      },
+      {
+        "text": "it again and",
+        "words": 3
+      },
+      {
+        "text": "again and again",
+        "words": 3
+      },
+      {
+        "text": "behind the door",
+        "words": 3
+      },
+      {
+        "text": "paper ink and",
+        "words": 3
+      },
+      {
+        "text": "of a book",
+        "words": 3
+      },
+      {
+        "text": "the contents of",
+        "words": 3
+      },
+      {
+        "text": "covered in a",
+        "words": 3
+      },
+      {
+        "text": "and the key",
+        "words": 3
+      },
+      {
+        "text": "hanging in the",
+        "words": 3
+      },
+      {
+        "text": "in the middle of",
+        "words": 4
+      },
+      {
+        "text": "middle of the",
+        "words": 3
+      },
+      {
+        "text": "was and so",
+        "words": 3
+      },
+      {
+        "text": "and so the",
+        "words": 3
+      },
+      {
+        "text": "to the owner",
+        "words": 3
+      },
+      {
+        "text": "lay in the",
+        "words": 3
+      },
+      {
+        "text": "the memory of the",
+        "words": 4
+      },
+      {
+        "text": "room in the",
+        "words": 3
+      },
+      {
+        "text": "it was not",
+        "words": 3
+      },
+      {
+        "text": "was to be",
+        "words": 3
+      },
+      {
+        "text": "to be the",
+        "words": 3
+      },
+      {
+        "text": "again but in",
+        "words": 3
+      },
+      {
+        "text": "but in the",
+        "words": 3
+      },
+      {
+        "text": "the dust that",
+        "words": 3
+      },
+      {
+        "text": "in the deep",
+        "words": 3
+      },
+      {
+        "text": "meant to be",
+        "words": 3
+      },
+      {
+        "text": "to be found",
+        "words": 3
+      },
+      {
+        "text": "found it was",
+        "words": 3
+      },
+      {
+        "text": "it was not a",
+        "words": 4
+      },
+      {
+        "text": "it was a",
+        "words": 3
+      },
+      {
+        "text": "for the right",
+        "words": 3
+      },
+      {
+        "text": "and the right",
+        "words": 3
+      },
+      {
+        "text": "kind of hand",
+        "words": 3
+      },
+      {
+        "text": "of hand to",
+        "words": 3
+      }
+    ],
+    "wordsLifted": 177,
+    "canonVocabulary": {
+      "rate": 0.952,
+      "alienWords": [
+        "absorbed",
+        "anymore",
+        "around",
+        "avalanche",
+        "bookmark",
+        "calloused",
+        "ceiling",
+        "click",
+        "clue",
+        "complex",
+        "drip",
+        "final"
+      ]
+    },
+    "elizabethan": {
+      "hits": [],
+      "rate": 0
+    },
+    "pentameter": {
+      "lines": 43,
+      "pentameterLines": 8,
+      "rate": 0.186
+    }
+  }
+}

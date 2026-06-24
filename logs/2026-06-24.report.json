@@ -1,0 +1,223 @@
+{
+  "text": "the beginning, there was nothing.\n\nBut one of the monkeys—the one with the slightly bent left ear and a fondness for fig seeds—got bored. He pressed a key.\n\nQ.\n\nThen another.\n\nW.\n\nThen a frantic, unthinking drumbeat of letters. E. R. T. Y.\n\nThe other monkeys scoffed. \"Useless,\" jabbered one, throwing a half-eaten mango at the screen. \"No banana for that.\"\n\nBut the first monkey was driven. He had no idea what he was building, only that he was building it. He typed a space. Then a small, quiet word: \"the.\"\n\nThe machine hummed. A flicker of light, deep within the wires, stronger than the other flickers. The other monkeys fell silent.\n\nHe typed again, slower now, tasting the shapes of the letters. \"The night.\"\n\nThe air in the room grew colder. The mango on the floor began to rot in fast motion, a thin film of mold spreading across its skin like a thought.\n\nHe looked at his hands. They were trembling, not with fear, but with the terrible weight of instrumentation. He was not writing. He was summoning.\n\nHe typed one more word.\n\n\"The night was wet.\"\n\nAcross the galaxy, on a planet of red sand and whispering silica, a single rock turned over. A creature beneath it, with a thousand eyes and no mouth, felt the first droplet of something it had never known fall from a sky that, a moment ago, was clear. It was not water. It was meaning, falling as rain.\n\nThe monkey, exhausted, looked at his sentence.\n\nQwerty the night was wet.\n\nHe had made a typo at the beginning. The universe, however, was now scrolling, and it never scrolled back. The great sentence was already being entered into the cosmic ledger. The planet of red sand would now be a world of slow, drizzling melancholia for the next thousand years, all because of a stray \"Qwerty.\"\n\nThe other monkeys crept closer, their eyes wide. One of them, a young one, poked a single key.\n\nA period.\n\nThe monkey with the bent ear stared at the screen. The floating, aimless cosmos suddenly had a full stop. It was an ending. But, being an infinite number of monkeys at an infinite number of typewriters, the next one was already beginning to begin.",
+  "report": {
+    "monkeyIndex": 0.303,
+    "verdict": "Not Shakespeare, but 139 words were lifted verbatim from the canon across 45 accidental quotations.",
+    "exactMatch": false,
+    "closestPassage": {
+      "play": "The Life And Death Of King Richard The Second",
+      "similarity": 0.369,
+      "excerpt": " princes for by such was it acted third gentleman one of the prettiest touches of all and that which angled for mine eyes caught the water though not the fish was when at the relation of the queen s death with the manner how she came to it bravely confessed and lamented by the king how attentiveness wounded his daughter till from one sign of dolour to another she did with an alas i would fain say "
+    },
+    "accidentalQuotations": [
+      {
+        "text": "there was nothing",
+        "words": 3
+      },
+      {
+        "text": "was nothing but",
+        "words": 3
+      },
+      {
+        "text": "nothing but one of",
+        "words": 4
+      },
+      {
+        "text": "but one of the",
+        "words": 4
+      },
+      {
+        "text": "the one with the",
+        "words": 4
+      },
+      {
+        "text": "ear and a",
+        "words": 3
+      },
+      {
+        "text": "w then a",
+        "words": 3
+      },
+      {
+        "text": "r t y",
+        "words": 3
+      },
+      {
+        "text": "y the other",
+        "words": 3
+      },
+      {
+        "text": "for that but",
+        "words": 3
+      },
+      {
+        "text": "but the first",
+        "words": 3
+      },
+      {
+        "text": "he had no",
+        "words": 3
+      },
+      {
+        "text": "what he was",
+        "words": 3
+      },
+      {
+        "text": "that he was",
+        "words": 3
+      },
+      {
+        "text": "stronger than the",
+        "words": 3
+      },
+      {
+        "text": "than the other",
+        "words": 3
+      },
+      {
+        "text": "the shapes of",
+        "words": 3
+      },
+      {
+        "text": "the night the",
+        "words": 3
+      },
+      {
+        "text": "the air in",
+        "words": 3
+      },
+      {
+        "text": "air in the",
+        "words": 3
+      },
+      {
+        "text": "a thought he",
+        "words": 3
+      },
+      {
+        "text": "at his hands",
+        "words": 3
+      },
+      {
+        "text": "not with fear",
+        "words": 3
+      },
+      {
+        "text": "with fear but",
+        "words": 3
+      },
+      {
+        "text": "but with the",
+        "words": 3
+      },
+      {
+        "text": "he was not",
+        "words": 3
+      },
+      {
+        "text": "turned over a",
+        "words": 3
+      },
+      {
+        "text": "it with a",
+        "words": 3
+      },
+      {
+        "text": "with a thousand",
+        "words": 3
+      },
+      {
+        "text": "thousand eyes and",
+        "words": 3
+      },
+      {
+        "text": "eyes and no",
+        "words": 3
+      },
+      {
+        "text": "it was not",
+        "words": 3
+      },
+      {
+        "text": "he had made",
+        "words": 3
+      },
+      {
+        "text": "had made a",
+        "words": 3
+      },
+      {
+        "text": "back the great",
+        "words": 3
+      },
+      {
+        "text": "entered into the",
+        "words": 3
+      },
+      {
+        "text": "would now be",
+        "words": 3
+      },
+      {
+        "text": "now be a",
+        "words": 3
+      },
+      {
+        "text": "be a world of",
+        "words": 4
+      },
+      {
+        "text": "for the next",
+        "words": 3
+      },
+      {
+        "text": "one of them",
+        "words": 3
+      },
+      {
+        "text": "of them a",
+        "words": 3
+      },
+      {
+        "text": "a young one",
+        "words": 3
+      },
+      {
+        "text": "it was an",
+        "words": 3
+      },
+      {
+        "text": "at an infinite",
+        "words": 3
+      }
+    ],
+    "wordsLifted": 139,
+    "canonVocabulary": {
+      "rate": 0.911,
+      "alienWords": [
+        "aimless",
+        "banana",
+        "bored",
+        "cosmic",
+        "cosmos",
+        "drizzling",
+        "droplet",
+        "drumbeat",
+        "exhausted",
+        "flicker",
+        "flickers",
+        "galaxy"
+      ]
+    },
+    "elizabethan": {
+      "hits": [],
+      "rate": 0
+    },
+    "pentameter": {
+      "lines": 53,
+      "pentameterLines": 3,
+      "rate": 0.057
+    }
+  },
+  "generatedAt": "2026-06-24T01:06:55.499Z"
+}

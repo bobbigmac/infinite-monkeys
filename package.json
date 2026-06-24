@@ -1,0 +1,19 @@
+{
+  "name": "infinite-monkeys",
+  "version": "1.0.1",
+  "description": "A very serious statistical audit of whether an LLM accidentally became Shakespeare.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "monkey": "node src/index.js",
+    "build-site": "node src/build-site.js",
+    "backfill-reports": "node src/backfill-reports.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

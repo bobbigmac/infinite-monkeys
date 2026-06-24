@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Did the monkeys write Shakespeare today?</title>
+  <meta name="description" content="A daily audit of whether an infinity of robot monkeys accidentally became Shakespeare.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="backdrop" aria-hidden="true"></div>
+
+  <header class="hero">
+    <img class="hero-art" src="assets/monkeys-hero.png" alt="Robot monkeys at typewriters">
+    <div class="hero-copy">
+      <p class="eyebrow">Infinite Monkeys Regression Suite</p>
+      <h1 id="headline">Did the monkeys write Shakespeare today?</h1>
+      <p class="subhead" id="subhead">Loading today&apos;s attempt…</p>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="archive">
+      <h2>Previous days</h2>
+      <nav id="archive-list" aria-label="Previous runs"></nav>
+    </aside>
+
+    <section class="report" id="report">
+      <p class="loading">Consulting the folio…</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>They were only asked to write something.</p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
